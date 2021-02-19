@@ -1,0 +1,36 @@
+body {
+    background: -webkit-linear-gradient(#9198e5, #f8b434);
+    margin: 0;
+    padding: 0;
+    font-family: font-family: 'Raleway', sans-serif;
+}
+.contentSec {
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+#intro {
+    padding: 45px;
+    
+}
+h1 {
+    font-family: 'Stick', sans-serif;
+    font-stretch:extra-expanded;
+    color: whitesmoke;
+}
+.card-container {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.card-white {
+    box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.5);
+    padding: 5px;
+    border-radius: 10px;
+    margin: 5px;
+    width: 400px;
+    text-align: center;
+}
+img {
+    width: 400px;
+    padding: 5px;
+}
